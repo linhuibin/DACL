@@ -46,3 +46,25 @@ It is easy to design your own method following the steps:
 Great thanks to [DeepDG](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG/).  Our code is based on this project and extends.
 
 
+## Citation
+
+If you think this toolkit or the results are helpful to you and your research, please cite us!
+
+```
+@article{lin2024contextual,
+  title={Contextual distribution alignment via correlation contrasting for domain generalization},
+  author={Lin, Huibin and Zhang, Chun-Yang and Chen, CL Philip},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={35},
+  number={4},
+  pages={3619--3632},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+## Contact
+
+- [Huibin Lin](https://scholar.google.com/citations?user=JB81MwsAAAAJ&hl=en)
+
+
